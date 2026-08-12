@@ -13,6 +13,8 @@ Este projeto tem como finalidade ser apresentado ao SUMMIT 2026, à disciplina d
 ## Instrução de instalação
 
 ### Pré-requisitos
+Xampp Control Panel V3.3.0
+
 
 ## 
 
@@ -23,6 +25,8 @@ Este projeto tem como finalidade ser apresentado ao SUMMIT 2026, à disciplina d
 '''
 
 ## Instrução de uso
+1- Abrir XAMPP, ativar APACHE E MySql
+
 
 ## Licença
 
