@@ -1,4 +1,4 @@
-# PFC_Saber_Colorido
+# Saber_Colorido/Politicas de Segurança da Informação
 
 ## Descrição
 Software Web de Atividades Guiadas para Crianças com TEA nível 1
