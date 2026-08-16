@@ -35,4 +35,4 @@ Xampp Control Panel V3.3.0
 ## Contribuidores
 
 Idealizado por Cauã Dias no 1º Semestre do curso Sistemas de Informação e co-criado por Lucas Roberto. Menção honrosa para Gabriele Coutinho por sua colaboração no levantamento de requisitos e desenvolvimento de diagramas no 5º Semestre do curso.
-Projeto atualmente em desenvolvimento por Lucas Roberto (owner) e Leonardo Felix, no 6º Semestre.
+Projeto atualmente em desenvolvimento por Lucas Roberto e Leonardo Felix, no 6º Semestre.
