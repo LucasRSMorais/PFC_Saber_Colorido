@@ -1,0 +1,4 @@
+/* Conexão com as partials (partes) */
+@import './partials/';
+@import '../../global/global.css';
+

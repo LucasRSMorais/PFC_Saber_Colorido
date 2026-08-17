@@ -1,16 +1,38 @@
-# React + Vite
+# Saber_Colorido/Politicas de Segurança da Informação
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Descrição
+Software Web de Atividades Guiadas para Crianças com TEA nível 1
+Está sendo desenvolvido com as seguintes ferramentas:
+    Linguagem de programação: PHP, JavaScript
+    Linguagem de marcação e estilização: HTML e CSS
+    FrameWorks: React
+    API: REST
+    Banco de dados: MySQL
+Este projeto tem como finalidade ser apresentado ao SUMMIT 2026, à disciplina de Politicas de Segurança da Informação e à banca do PFC.
 
-Currently, two official plugins are available:
+## Instrução de instalação
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+### Pré-requisitos
+Xampp Control Panel V3.3.0
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 
 
-## Expanding the ESLint configuration
+### Etapas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+'''bash
+  npm install
+'''
+
+## Instrução de uso
+1- Abrir XAMPP, ativar APACHE E MySql
+
+
+## Licença
+
+### Uso educacional
+
+## Contribuidores
+
+Idealizado por Cauã Dias no 1º Semestre do curso Sistemas de Informação e co-criado por Lucas Roberto. Menção honrosa para Gabriele Coutinho por sua colaboração no levantamento de requisitos e desenvolvimento de diagramas no 5º Semestre do curso.
+Projeto atualmente em desenvolvimento por Lucas Roberto e Leonardo Felix, no 6º Semestre.
