@@ -5,16 +5,19 @@ Software Web de Atividades Guiadas para Crianças com TEA nível 1
 Está sendo desenvolvido com as seguintes ferramentas:
     Linguagem de programação: PHP, JavaScript
     Linguagem de marcação e estilização: HTML e CSS
-    FrameWorks: React
+    FrameWorks: React (JavaScript)
+      Liner: ESlint
     API: REST
     Banco de dados: MySQL
 Este projeto tem como finalidade ser apresentado ao SUMMIT 2026, à disciplina de Politicas de Segurança da Informação e à banca do PFC.
 
 ## Instrução de instalação
 
-### Pré-requisitos
-Xampp Control Panel V3.3.0
-
+### Pré-requisitos // Versão utilizada
+Xampp Control Panel v3.3.0
+Vite v8.2.1
+Node.Js v22.20.0
+nmp 11.1.0
 
 ## 
 
@@ -25,7 +28,7 @@ Xampp Control Panel V3.3.0
 '''
 
 ## Instrução de uso
-1- Abrir XAMPP, ativar APACHE E MySql
+1- Abrir XAMPP, ativar APACHE e MySql
 
 
 ## Licença
